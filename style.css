@@ -295,3 +295,9 @@
 
 
 }
+
+footer p {
+      color: aqua;
+      font-family: 'Manrope', sans-serif;
+      font-size: 10px;
+}
