@@ -1,0 +1,297 @@
+* {
+      padding: 0%;
+      margin: 0%;
+}
+
+
+.container {
+      display: flex;
+      padding-left: 100px;
+}
+
+.flex img {
+      width: 390px;
+      margin-top: px;
+      margin-left: 160px;
+
+
+
+
+
+}
+
+.flex {
+      width: 40%;
+      padding-top: 44px;
+
+}
+
+#text-box {
+      margin-top: 100px;
+
+
+}
+
+.tag h1 {
+      padding-left: 4px;
+
+
+      font-size: 42px;
+      width: 60%;
+
+
+}
+
+.inline {
+      display: inline-flex;
+
+}
+
+.square {
+      height: 70px;
+      width: 4px;
+      background-color: #ff5050;
+      padding-top: 18px;
+      border-radius: 18px;
+}
+
+
+
+.one-span {
+      color: orange;
+}
+
+
+
+.flex h3 {
+      padding-top: 12px;
+      width: 90%;
+      font-weight: 100;
+      font-family: 'Poppins', sans-serif;
+      color: rgb(73, 73, 73);
+}
+
+.buttton-sec a {
+      color: rgb(255, 255, 255);
+      text-decoration: none;
+      background-color: rgb(250, 68, 68);
+      padding: 10px 25px;
+      border-radius: 6px;
+      font-family: 'Poppins', sans-serif;
+
+
+
+}
+
+.buttton-sec {
+      padding-top: 10px;
+
+
+}
+
+#more {
+      margin-top: 60px;
+      font-family: 'Poppins', sans-serif;
+}
+
+.second-section {
+      padding-top: 7px;
+      margin-top: 16px;
+}
+
+.middel-text h1 {
+      text-align: center;
+      font-family: 'Poppins', sans-serif;
+      font-size: 40px;
+      font-weight: 700;
+}
+
+.three-elements-sec {
+      display: flex;
+      justify-content: center;
+
+}
+
+.three-elements {
+      width: 300px;
+      padding: 16px;
+      margin: 22px;
+      border-radius: 26px;
+      font-family: 'Poppins', sans-serif;
+
+
+}
+
+.three-elements img {
+      width: 120px;
+
+}
+
+.three-elements h2 {
+      padding: 6px;
+}
+
+#bgcolor1 {
+      background-color: rgb(221, 252, 252);
+}
+
+#bgcolor2 {
+      background-color: #ffdbdb;
+}
+
+#bgcolor3 {
+      background-color: #faefcd;
+}
+
+.sheiscoding img {
+      width: 400px;
+}
+
+#text-box-3 {
+
+      padding-left: 77px;
+      padding-top: 33px;
+      width: 50%;
+
+}
+
+.text3ele {
+      font-family: 'Poppins', sans-serif;
+      padding: 2px;
+}
+
+
+
+.text3ele p {
+      color: rgb(73, 73, 73);
+}
+
+.text3ele h1 {
+      width: 240px;
+      font-weight: bold;
+}
+
+#font-change a {
+      font-family: 'Roboto', sans-serif;
+}
+
+#third-sec-margin {
+      margin-top: 44px;
+      background-image: url(images/shapes/shape-1.png);
+      background-repeat: no-repeat;
+      background-size: 10%;
+
+      background-position: calc(5% - 20px) center;
+}
+
+
+
+.flex4 {
+      width: 45%;
+}
+
+#forth img {
+      padding-left: 10px;
+      margin-left: 170px;
+
+}
+
+#forth-textbox {
+      width: 550px;
+      padding-bottom: 77px;
+}
+
+#forthtag h1 {
+      width: 270px;
+
+}
+
+
+
+#forth-sec-bg {
+      margin-top: 44px;
+      background-image: url(images/shapes/shape-1.png);
+      background-repeat: no-repeat;
+      background-size: 10%;
+      background-position: right 4% bottom 45%;
+
+}
+
+.last {
+      padding-left: 100px;
+
+}
+
+.last-elements {
+      display: flex;
+
+}
+
+.fifthtag h1 {
+      font-family: 'Poppins', sans-serif;
+      text-align: center;
+      font-style: bold;
+      font-size: 40px;
+}
+
+#last-pic img {
+      width: 350px;
+      background-image: url(images/shapes/shape-3.png);
+      background-repeat: no-repeat;
+      background-position: left 0% top 0%;
+      background-size: 40%;
+      padding-left: 33px;
+      padding-top: 23px;
+
+}
+
+#last-pic {
+      background-image: url(images/shapes/shape-3.png);
+      background-repeat: no-repeat;
+      background-position: left 8% bottom 2%;
+      background-size: 20%;
+
+}
+
+#last-text {
+      padding-left: 16px;
+      margin-left: 77px;
+      margin-top: 77px;
+}
+
+#go-corona h1 {
+      font-style: bold;
+      font-size: 33px;
+}
+
+
+#footer-tag h1 {
+
+
+
+      font-family: 'Lobster', cursive;
+}
+
+#paratag {
+
+      padding: 12px;
+      color: rgb(221, 221, 221);
+      font-family: 'Manrope', sans-serif;
+}
+
+.footer-span {
+      color: rgb(253, 64, 40);
+}
+
+#mission-white {
+      color: white;
+}
+
+#footer-section {
+      background-color: rgb(5, 2, 37);
+      text-align: center;
+      padding: 16px;
+
+
+
+}
