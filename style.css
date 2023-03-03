@@ -48,11 +48,14 @@
 }
 
 .square {
-      height: 70px;
+      height: 60px;
       width: 4px;
       background-color: #ff5050;
       padding-top: 18px;
       border-radius: 18px;
+
+      margin-top: 8px;
+
 }
 
 
